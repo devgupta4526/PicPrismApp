@@ -1,4 +1,4 @@
-package com.underground.picprism.ui.theme
+package com.underground.picprism.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.underground.picprism.ui.theme
+package com.underground.picprism.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
